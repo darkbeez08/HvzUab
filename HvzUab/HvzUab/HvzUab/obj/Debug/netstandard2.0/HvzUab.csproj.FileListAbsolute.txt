@@ -1,0 +1,15 @@
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\bin\Debug\netstandard2.0\HvzUab.deps.json
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\bin\Debug\netstandard2.0\HvzUab.dll
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\bin\Debug\netstandard2.0\ref\HvzUab.dll
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\bin\Debug\netstandard2.0\HvzUab.pdb
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.csproj.AssemblyReference.cache
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.AssemblyInfoInputs.cache
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.AssemblyInfo.cs
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.csproj.CoreCompileInputs.cache
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.dll
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\ref\HvzUab.dll
+C:\Users\darkb\Desktop\HvzUab\HvzUab\HvzUab\HvzUab\obj\Debug\netstandard2.0\HvzUab.pdb
